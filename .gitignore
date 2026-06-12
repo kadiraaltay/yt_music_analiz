@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.streamlit/
+kullanicilar.db
+Takeout/
+*.json
+
+#GitHub'a kodlarımızı yüklerken, Python'un arkada oluşturduğu çöp klasörleri (__pycache__) veya yarın öbür gün oluşacak veritabanı dosyalarını yüklemek istemeyiz. Sadece temiz kodlarımız gitmeli.
